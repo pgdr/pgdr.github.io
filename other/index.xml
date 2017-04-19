@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others on PG Drange</title>
+    <link>http://drange.net/other/</link>
+    <description>Recent content in Others on PG Drange</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Apr 2017 19:59:12 +0200</lastBuildDate>
+    <atom:link href="http://drange.net/other/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>other</title>
+      <link>http://drange.net/other/other/</link>
+      <pubDate>Wed, 19 Apr 2017 19:59:12 +0200</pubDate>
+      
+      <guid>http://drange.net/other/other/</guid>
+      <description>&lt;p&gt;Grapher&lt;/p&gt;
+
+&lt;p&gt;I am the lead developer and main contributor of the Grapher Android application, whose source code is available under a free license at github.com/drange/Grapher. Please have a look at it, and I am very happy for any feedback you may have.&lt;/p&gt;
+
+&lt;p&gt;This app is a pet project for drawing graphs, exporting to tikz and metapost (and soon pictures), running algorithms on graphs, etc. It started as a simple way to make TikZ code by drawing a graph, but as time passed, we implemented algorithms on these drawn graphs, especially NP-hard ones.&lt;/p&gt;
+
+&lt;p&gt;We use this as some programming projects in algorithms for students, like&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Steiner tree computation in FPT time
+Minimum fill-in computation in FPT time
+Chromatic number and coloring in fast exponential time
+Interval representation view (ongoing)
+Odd cycle transversal in 3k time
+Maximal matching (paths, trees and flowers) (ongoing)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;More other stuff&lt;/p&gt;
+
+&lt;p&gt;The collaboration graph of my research group with present and former members.&lt;/p&gt;
+
+&lt;p&gt;The collaboration graph of my department.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on PG Drange</title>
+    <link>http://drange.net/contact/</link>
+    <description>Recent content in Contacts on PG Drange</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Apr 2017 19:53:31 +0200</lastBuildDate>
+    <atom:link href="http://drange.net/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>contact</title>
+      <link>http://drange.net/contact/contact/</link>
+      <pubDate>Wed, 19 Apr 2017 19:53:31 +0200</pubDate>
+      
+      <guid>http://drange.net/contact/contact/</guid>
+      <description>&lt;p&gt;Please feel free to contact me at any time, either by email, mail or coming to
+my office.&lt;/p&gt;
+
+&lt;p&gt;For Inquiries Please Call: 555-84 294 or send an email to Pal.Drange@uib.no&lt;/p&gt;
+
+&lt;p&gt;Or you can visit me at: Department of Informatics
+Høgteknologisenteret,
+Thormøhlensgate 55,
+N-5008 Bergen&lt;/p&gt;
+
+&lt;p&gt;Room 3146&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
