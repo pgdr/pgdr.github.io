@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on PG Drange</title>
+    <link>http://drange.net/post/</link>
+    <description>Recent content in Posts on PG Drange</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Apr 2017 20:01:51 +0200</lastBuildDate>
+    <atom:link href="http://drange.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>home</title>
+      <link>http://drange.net/post/home/</link>
+      <pubDate>Wed, 19 Apr 2017 20:01:51 +0200</pubDate>
+      
+      <guid>http://drange.net/post/home/</guid>
+      <description>&lt;p&gt;This is my now outdated academic website. I am no longer in academia, but a happy coder.&lt;/p&gt;
+
+&lt;p&gt;Researcher in the Algorithms group
+Department of Informatics
+University of Bergen, Norway
+Pål Grønås Drange&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>involvements</title>
+      <link>http://drange.net/post/involvements/</link>
+      <pubDate>Wed, 19 Apr 2017 20:01:22 +0200</pubDate>
+      
+      <guid>http://drange.net/post/involvements/</guid>
+      <description>&lt;p&gt;Events&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Eurocomb 2015 (co-chair with Professor Jan Arne Telle)
+Worker 2015 (chair)
+NCPC 2012, 2013, 2014 (local organizer)
+Algorithms research stand at Christiekonferansen 2013
+Organized Horisonter lecture: Does the measurement device measure what it is supposed to measure? — Jo Røislien
+ICT Research School 2013 — organizer and scientific committee
+Turing Centennary 2012 — organizer and scientific committee
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Other committees and responsibility&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Member of the problem committee for NCPC 2014 and NCPC 2015, the Nordic Collegiate Programming Competition
+Member of the department council, Department of Informatics (2013 – )
+Algorithms seminar leader (fall 2012)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Teaching responsibilities&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Teaching assistant INF207 — Social Network Theory (fall 2014)
+Organizer, INF109 — Programming for scientists (spring 2012 – )
+TA, INF109 — Programming for scientists (fall 2011)
+TA, INFO282 — Artificial Intelligence (spring 2009 – spring 2011)
+Lecturer, DASP101 — Programming and search strategies (fall 2007 – fall 2009)
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>publications</title>
+      <link>http://drange.net/post/publications/</link>
+      <pubDate>Wed, 19 Apr 2017 20:00:59 +0200</pubDate>
+      
+      <guid>http://drange.net/post/publications/</guid>
+      <description>&lt;p&gt;s
+Journal publications&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;An O(ck n) 5-Approximation Algorithm for Treewidth (SIAM Journal on Computing, TA) — Hans L. Bodlaender, Pål Grønås Drange, Markus Dregi, Fedor V. Fomin, Daniel Lokshtanov, and Michał Pilipczuk
+Exploring the Subexponential Complexity of Completion Problems, ACM Transactions on Computation Theory (TOCT) — Pål Grønås Drange, Fedor V. Fomin, Michał Pilipczuk, and Yngve Villanger
+On the Computational Complexity of Vertex Integrity and Component Order Connectivity, (Algorithmica, TA) — Pål Grønås Drange, Markus Dregi, Pim van&#39;t Hof
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Conference proceedings&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Kernelization and Sparseness: the case of Dominating Set (STACS 2016, TA) (arXiv preprint) — Pål Grønås Drange, Markus Dregi, Fedor V. Fomin, Stephan Kreutzer, Daniel Lokshtanov, Marcin Pilipczuk, Michał Pilipczuk, Felix Reidl, Saket Saurabh, Fernando Sánchez Villaamil, and Somnath Sikdar
+Compressing bounded degree graphs (LATIN 2016, TA) (preprint) — Pål Grønås Drange, Markus Dregi, and R. B. Sandeep
+Fast Biclustering by Dual Parameterization (IPEC 2015) — Pål Grønås Drange, Felix Reidl, Fernando Sánchez Villaamil, Somnath Sikdar
+A Polynomial Kernel for Trivially Perfect Editing (ESA 2015) (arxiv preprint) — Pål Grønås Drange and Michał Pilipczuk
+On the Threshold of Intractability (ESA 2015) (arxiv preprint) — Pål Grønås Drange, Markus Dregi, Daniel Lokshtanov, and Blair D. Sullivan
+On the Computational Complexity of Vertex Integrity and Component Order Connectivity (ISAAC 2014) (arxiv preprint) — Pål Grønås Drange, Markus Dregi, and Pim van&#39;t Hof
+Exploring Subexponential Parameterized Complexity of Completion Problems (STACS 2014) (arxiv preprint) — Pål Grønås Drange, Fedor V. Fomin, Michał Pilipczuk, and Yngve Villanger
+An O(ck n) 5-Approximation Algorithm for Treewidth (FOCS 2013) (arxiv preprint) — Hans L. Bodlaender, Pål Grønås Drange, Markus Dregi, Fedor V. Fomin, Daniel Lokshtanov, and Michał Pilipczuk
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Popular scientific&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Intervjuet i Teknisk Ukeblad
+Er du venn med en robot? — Appeared in Morgenbladet, co-authored with Professor Jan Arne Telle
+Sådde frøene til datarevolusjonen — Bergens Tidende, 22. juni 2012, co-authored with Professor Jan Arne Telle
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Reviewing duty&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;SIAM Journal on Discrete Mathematics
+CSR 2014: subreviewer
+ESA 2015: subreviewer
+ESA 2015: subreviewer
+FSTTCS 2014: subreviewer
+FUN 2014: subreviewer
+ICALP 2012: subreviewer
+IPEC 2015: subreviewer
+ISAAC 2013: subreviewer
+ISAAC 2015: subreviewer
+MFCS 2012: subreviewer
+MFCS 2014: subreviewer
+WG 2014: subreviewer
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;PhD thesis&lt;/p&gt;
+
+&lt;p&gt;Parameterized Graph Modification Algorithms
+    Abstract:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Graph modification problems form an important class of algorithmic problems in computer science. In this thesis, we study edge modification problems towards classes related to chordal graphs, with the main focus on trivially perfect graphs and threshold graphs. We provide several new results in classical complexity, kernelization complexity, and subexponential parameterized complexity. In all cases we give positive and negative results—giving polynomial time algorithms as well as NP-hardness results, polynomial kernels as well as polynomial kernel impossibility results, and we give subexponential time algorithms, and show that many problems do not admit such algorithms unless the exponential time hypothesis fails.
+
+Our main focus is on the subexponential time complexity of edge modification problems. For that to make sense, we first need to figure out whether or not we actually need super-polynomial time. We show that editing towards trivially perfect graphs, threshold graphs, and chain graphs are all NP-complete, resolving 15 year old open questions. When a problem is shown to be NP-complete, we study exactly how much exponential time is needed for an algorithm to solve it. We provide several subexponential time algorithms, for, e.g., editing towards chain graphs and threshold graphs, as well as completing towards trivially perfect graphs. We complement our results by showing that small alterations in the target graph classes yields much harder problems: Editing towards trivially perfect graphs and cographs is not possible in subexponential time unless the exponential time hypothesis fails.
+
+A first step in our subexponential time algorithms, and an otherwise natural first step in dealing with NP-hard problems is offered by the toolbox of polynomial kernelization. In polynomial kernelizations, we are asked to design polynomial time compression algorithms that shrink the input instances to output instances bounded polynomially in a yes-solution. We provide polynomial kernels for all edge modification problems towards trivially perfect graphs, threshold graphs and chain graphs. In addition, we show that on bounded degree input graphs, we obtain polynomial kernels for any editing or deletion problem towards graph classes characterizable by a finite set of forbidden induced subgraphs. Finally, we show that we should not expect the same result for completion problems by proving that such a compression algorithm would imply the collapse of the polynomial hierarchy.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Cite as
+    Pål Grønås Drange. Parameterized Graph Modification Algorithms. PhD dissertation, University of Bergen, 2015.
+BibTeX&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;@phdthesis{drange2015parameterized,
+  type = {{PhD} Dissertation},
+  title = {Parameterized Graph Modification Algorithms},
+  timestamp = {2015-12-10T15:00:00Z},
+  school = {University of Bergen},
+  author = {Drange, P{\aa}l Gr{\o}n{\aa}s},
+  year = {2015}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Master thesis&lt;/p&gt;
+
+&lt;p&gt;Epistemic Effectivity: Neighbourhood Semantics for Coalitional Ability and Group Knowledge (PDF)
+    Abstract:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;In this thesis, we investigate coalitional ability under imperfect knowledge. Coalitional ability is a measure of how powerful a group of agents are, in terms of which outcomes they can achieve in some game. This has been studied using effectivity functions, which has a very natural interpretation in neighbourhood semantics in modal logic. On the other hand, coalitional ability under imperfect knowledge has been studied in great details recently in a variety of papers, but not in the context of effectivity functions and neighbourhood semantics.
+
+A very natural question to ask is “what is a coalition effective for under imperfect knowledge?”. In this thesis we study that question and analyse the problem using effectivity functions, named epistemic effectivity functions. The main result is a representation theorem, completely characterising the effectivity functions corresponding to epistemic game structures under a variant of α-effectivity that uses distributed knowledge. Along the way, we also give a new neighbourhood semantics for standard epistemic logic with different variants of group knowledge which turns out to be very natural and intuitive.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Talks&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Empirical Hardness Models, Department seminar, trial lecture. Bergen, Norway (October 2015)
+Fast Biclustering, Algorithm Seminar Series. Bergen, Norway (October 2015)
+Fast Biclustering by Dual Parameterization, ESA 2015. Patras, Greece (September 2015)
+A polynomial kernel for Trivially Perfect Editing, ESA 2015. Patras, Greece (September 2015)
+On the square root phenomenon of chordal graphs, NICTA Algorithm series. Sydney, Australia (March 2015)
+The computational complexity of Threshold Editing, Workshop on Graph Decomposition, CIRM. Marseilles, France (January 2015)
+Computational Complexity of Component Order Connectivity, ISAAC. Jeonju, South-Korea (December 2014) (slides)
+Parameterized Complexity – A Primer (slides), Workshop in Honour of Hans Birger Drange on His 70th Birthday. Bergen, Norway (April 2014)
+Subexponential Parameterized Complexity of Completion Problems, STACS. Lyon, France (March 2014)
+Subexponential Graph Modification, Algorithms seminar series, University of Bergen. Bergen, Norway (February 2014)
+What is Algorithm Research, talk for the new bachelor students at the Department of Informatics, University of Bergen. Bergen, Norway (August 2013)
+A randomized polynomial kernel for Odd Cycle Transversal, Algorithms seminar series, University of Bergen. Bergen, Norway (February 2012)
+Three representation theorems for S5[E,D,C], Logic group. Bergen, Norway (June 2011)
+Completeness of S5 with common knowledge, Logic group. Bergen, Norway (September 2010)
+Complexity of Cooperative Solution Concepts, ILLC. Amsterdam, the Netherlands (May 2010)
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://drange.net/post/about/</link>
+      <pubDate>Wed, 19 Apr 2017 20:00:16 +0200</pubDate>
+      
+      <guid>http://drange.net/post/about/</guid>
+      <description>&lt;p&gt;Current status&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m Pål Grønås Drange, researcher in the the Algorithms group, Department of Informatics, University of Bergen, Norway.&lt;/p&gt;
+
+&lt;p&gt;I received my PhD from the University after defending my thesis &amp;ldquo;Parameterized Graph Modification Algorithms&amp;rdquo;, which was supervised by Professor Fedor V. Fomin. My scholarship during the PhD period came from Fomin&amp;rsquo;s ERC Advanced Grant Rigorous Theory of Preprocessing, ERC Advanced Investigator Grant 267959.&lt;/p&gt;
+
+&lt;p&gt;I was a PhD student from January 2012 until January 2016. October 5th I handed in my PhD thesis, Parameterized Graph Modification Algorithms and defended this thesis December 10, 2015. See the press release Kunsten å avdekke strukturer i komplekse nettverk (Norwegian) and the disputas announcement.&lt;/p&gt;
+
+&lt;p&gt;From February until May 2015, I visited Serge Gaspers at NICTA, Sydney and UNSW in Sydney, Australia.
+Research interest&lt;/p&gt;
+
+&lt;p&gt;My main interest is algorithmic graph theory, parameterized complexity, preprocessing (in the form of kernelization and width parameter analysis) and exact (sub-)exponential algorithms. Especially for graph modification problems.&lt;/p&gt;
+
+&lt;p&gt;A graph modification problem is a problem where you are given a graph G and a budget k and you are asked to transform G to some specific target class (usually a graph class characterized by either forbidden minors, or forbidden induced subgraphs), modifying at most k vertices or edges.&lt;/p&gt;
+
+&lt;p&gt;Graph classes of particular interest are graphs related to chordal graphs, or graphs omitting P4, C4, C5 or 2K2 as induced subgraphs. Graph classes of these types include (pseudo-)split, threshold and chain graphs, trivially perfect and cographs.&lt;/p&gt;
+
+&lt;p&gt;Of results, we have given subexponential exact algorithms for Trivially Perfect Completion, Threshold Completion, and Pseudosplit Completion. (STACS 2014)&lt;/p&gt;
+
+&lt;p&gt;We have shown that Trivially Perfect Editing is NP-hard and does not have a subexponential algorithm unless ETH fails, but that it, on the positive side, admits a polynomial kernel (preprint at arXiv).&lt;/p&gt;
+
+&lt;p&gt;We have shown that Threshold Editing and Chain Editing are NP-hard, but that on the positive side, they admit quadratic kernels and subexponential algorithms(to appear). The quadratic kernels also hold for the completion and deletion variants.&lt;/p&gt;
+
+&lt;p&gt;For a slightly different type of problem, in the area of graph vulnerability, we showed that Vertex Integrity is NP-complete, on cocomparability graphs (even on co-bipartite graphs), thereby refuting a twenty year old conjecture, and that Component Order Connectivity can be solved in lkn time, where l is the size of the largest connected component in the target graph and k is the budget. (ISAAC 2014)&lt;/p&gt;
+
+&lt;p&gt;Finally, we showed that there is a single-exponential linear time constant factor approximation for computing the treewidth of a graph, i.e., we can in time O(ctn) time obtain a 5-approximation of the treewidth of an input graph G. (FOCS 2013)
+Research resources&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;orcid
+arxiv
+dblp
+cristin
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;My coauthors&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Hans Bodlaender
+Markus S. Dregi
+Fedor V. Fomin
+Stephan Kreutzer
+Daniel Lokshtanov
+Marcin Pilipczuk
+Michał Pilipczuk
+Felix Reidl
+Saket Saurabh
+Fernando Sánchez Villaamil
+R. B. Sandeep
+Somnath Sikdar
+Jan Arne Telle
+Pim van &#39;t Hof
+Yngve Villanger
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Education&lt;/p&gt;
+
+&lt;p&gt;I have a PhD from the Algorithms group at the Department of Informatics, University of Bergen.&lt;/p&gt;
+
+&lt;p&gt;My bachelor and master degree both come from the University of Bergen, with a short stay at the ILLC at the University of Amsterdam. In 2009, I finished my bachelor degree in Cognitive science and in 2011, I completed my master thesis Epistemic Effectivity: Neighborhood Semantics for Coalitional Ability and Group Knowledge under the supervision of Professor Thomas Ågotnes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>other</title>
+      <link>http://drange.net/post/other/</link>
+      <pubDate>Wed, 19 Apr 2017 19:59:12 +0200</pubDate>
+      
+      <guid>http://drange.net/post/other/</guid>
+      <description>&lt;p&gt;Grapher&lt;/p&gt;
+
+&lt;p&gt;I am the lead developer and main contributor of the Grapher Android application, whose source code is available under a free license at github.com/drange/Grapher. Please have a look at it, and I am very happy for any feedback you may have.&lt;/p&gt;
+
+&lt;p&gt;This app is a pet project for drawing graphs, exporting to tikz and metapost (and soon pictures), running algorithms on graphs, etc. It started as a simple way to make TikZ code by drawing a graph, but as time passed, we implemented algorithms on these drawn graphs, especially NP-hard ones.&lt;/p&gt;
+
+&lt;p&gt;We use this as some programming projects in algorithms for students, like&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Steiner tree computation in FPT time
+Minimum fill-in computation in FPT time
+Chromatic number and coloring in fast exponential time
+Interval representation view (ongoing)
+Odd cycle transversal in 3k time
+Maximal matching (paths, trees and flowers) (ongoing)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;More other stuff&lt;/p&gt;
+
+&lt;p&gt;The collaboration graph of my research group with present and former members.&lt;/p&gt;
+
+&lt;p&gt;The collaboration graph of my department.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>http://drange.net/post/contact/</link>
+      <pubDate>Wed, 19 Apr 2017 19:53:31 +0200</pubDate>
+      
+      <guid>http://drange.net/post/contact/</guid>
+      <description>&lt;p&gt;Please feel free to contact me at any time, either by email, mail or coming to
+my office.&lt;/p&gt;
+
+&lt;p&gt;For Inquiries Please Call: 555-84 294 or send an email to Pal.Drange@uib.no&lt;/p&gt;
+
+&lt;p&gt;Or you can visit me at: Department of Informatics
+Høgteknologisenteret,
+Thormøhlensgate 55,
+N-5008 Bergen&lt;/p&gt;
+
+&lt;p&gt;Room 3146&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
