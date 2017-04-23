@@ -172,64 +172,103 @@ Complexity of Cooperative Solution Concepts, ILLC. Amsterdam, the Netherlands (M
       <pubDate>Wed, 19 Apr 2017 20:00:16 +0200</pubDate>
       
       <guid>http://drange.net/about/about/</guid>
-      <description>&lt;p&gt;Current status&lt;/p&gt;
+      <description>
 
-&lt;p&gt;I&amp;rsquo;m Pål Grønås Drange, researcher in the the Algorithms group, Department of Informatics, University of Bergen, Norway.&lt;/p&gt;
+&lt;h1 id=&#34;current-status&#34;&gt;Current status&lt;/h1&gt;
 
-&lt;p&gt;I received my PhD from the University after defending my thesis &amp;ldquo;Parameterized Graph Modification Algorithms&amp;rdquo;, which was supervised by Professor Fedor V. Fomin. My scholarship during the PhD period came from Fomin&amp;rsquo;s ERC Advanced Grant Rigorous Theory of Preprocessing, ERC Advanced Investigator Grant 267959.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m Pål Grønås Drange, researcher in the the Algorithms group, Department of
+Informatics, University of Bergen, Norway.&lt;/p&gt;
 
-&lt;p&gt;I was a PhD student from January 2012 until January 2016. October 5th I handed in my PhD thesis, Parameterized Graph Modification Algorithms and defended this thesis December 10, 2015. See the press release Kunsten å avdekke strukturer i komplekse nettverk (Norwegian) and the disputas announcement.&lt;/p&gt;
+&lt;p&gt;I received my PhD from the University after defending my thesis &amp;ldquo;Parameterized
+Graph Modification Algorithms&amp;rdquo;, which was supervised by Professor Fedor
+V. Fomin. My scholarship during the PhD period came from Fomin&amp;rsquo;s ERC Advanced
+Grant Rigorous Theory of Preprocessing, ERC Advanced Investigator Grant 267959.&lt;/p&gt;
 
-&lt;p&gt;From February until May 2015, I visited Serge Gaspers at NICTA, Sydney and UNSW in Sydney, Australia.
-Research interest&lt;/p&gt;
+&lt;p&gt;I was a PhD student from January 2012 until January 2016. October 5th I handed
+in my PhD thesis, Parameterized Graph Modification Algorithms and defended this
+thesis December 10, 2015. See the press release Kunsten å avdekke strukturer i
+komplekse nettverk (Norwegian) and the disputas announcement.&lt;/p&gt;
 
-&lt;p&gt;My main interest is algorithmic graph theory, parameterized complexity, preprocessing (in the form of kernelization and width parameter analysis) and exact (sub-)exponential algorithms. Especially for graph modification problems.&lt;/p&gt;
+&lt;p&gt;From February until May 2015, I visited &lt;em&gt;Serge Gaspers&lt;/em&gt; at NICTA, Sydney and
+UNSW in Sydney, Australia.&lt;/p&gt;
 
-&lt;p&gt;A graph modification problem is a problem where you are given a graph G and a budget k and you are asked to transform G to some specific target class (usually a graph class characterized by either forbidden minors, or forbidden induced subgraphs), modifying at most k vertices or edges.&lt;/p&gt;
+&lt;h1 id=&#34;research-interest&#34;&gt;Research interest&lt;/h1&gt;
 
-&lt;p&gt;Graph classes of particular interest are graphs related to chordal graphs, or graphs omitting P4, C4, C5 or 2K2 as induced subgraphs. Graph classes of these types include (pseudo-)split, threshold and chain graphs, trivially perfect and cographs.&lt;/p&gt;
+&lt;p&gt;My main interest is algorithmic graph theory, parameterized complexity,
+preprocessing (in the form of kernelization and width parameter analysis) and
+exact (sub-)exponential algorithms. Especially for graph modification problems.&lt;/p&gt;
 
-&lt;p&gt;Of results, we have given subexponential exact algorithms for Trivially Perfect Completion, Threshold Completion, and Pseudosplit Completion. (STACS 2014)&lt;/p&gt;
+&lt;p&gt;A graph modification problem is a problem where you are given a graph G and a
+budget k and you are asked to transform G to some specific target class (usually
+a graph class characterized by either forbidden minors, or forbidden induced
+subgraphs), modifying at most k vertices or edges.&lt;/p&gt;
 
-&lt;p&gt;We have shown that Trivially Perfect Editing is NP-hard and does not have a subexponential algorithm unless ETH fails, but that it, on the positive side, admits a polynomial kernel (preprint at arXiv).&lt;/p&gt;
+&lt;p&gt;Graph classes of particular interest are graphs related to chordal graphs, or
+graphs omitting P4, C4, C5 or 2K2 as induced subgraphs. Graph classes of these
+types include (pseudo-)split, threshold and chain graphs, trivially perfect and
+cographs.&lt;/p&gt;
 
-&lt;p&gt;We have shown that Threshold Editing and Chain Editing are NP-hard, but that on the positive side, they admit quadratic kernels and subexponential algorithms(to appear). The quadratic kernels also hold for the completion and deletion variants.&lt;/p&gt;
+&lt;p&gt;Of results, we have given subexponential exact algorithms for Trivially Perfect
+Completion, Threshold Completion, and Pseudosplit Completion. (STACS 2014)&lt;/p&gt;
 
-&lt;p&gt;For a slightly different type of problem, in the area of graph vulnerability, we showed that Vertex Integrity is NP-complete, on cocomparability graphs (even on co-bipartite graphs), thereby refuting a twenty year old conjecture, and that Component Order Connectivity can be solved in lkn time, where l is the size of the largest connected component in the target graph and k is the budget. (ISAAC 2014)&lt;/p&gt;
+&lt;p&gt;We have shown that Trivially Perfect Editing is NP-hard and does not have a
+subexponential algorithm unless ETH fails, but that it, on the positive side,
+admits a polynomial kernel (preprint at arXiv).&lt;/p&gt;
 
-&lt;p&gt;Finally, we showed that there is a single-exponential linear time constant factor approximation for computing the treewidth of a graph, i.e., we can in time O(ctn) time obtain a 5-approximation of the treewidth of an input graph G. (FOCS 2013)
-Research resources&lt;/p&gt;
+&lt;p&gt;We have shown that Threshold Editing and Chain Editing are NP-hard, but that on
+the positive side, they admit quadratic kernels and subexponential algorithms(to
+appear). The quadratic kernels also hold for the completion and deletion
+variants.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;orcid
-arxiv
-dblp
-cristin
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;For a slightly different type of problem, in the area of graph vulnerability, we
+showed that Vertex Integrity is NP-complete, on cocomparability graphs (even on
+co-bipartite graphs), thereby refuting a twenty year old conjecture, and that
+Component Order Connectivity can be solved in lkn time, where l is the size of
+the largest connected component in the target graph and k is the budget. (ISAAC
+2014)&lt;/p&gt;
 
-&lt;p&gt;My coauthors&lt;/p&gt;
+&lt;p&gt;Finally, we showed that there is a single-exponential linear time constant
+factor approximation for computing the treewidth of a graph, i.e., we can in
+time O(ctn) time obtain a 5-approximation of the treewidth of an input graph
+G. (FOCS 2013) Research resources&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;Hans Bodlaender
-Markus S. Dregi
-Fedor V. Fomin
-Stephan Kreutzer
-Daniel Lokshtanov
-Marcin Pilipczuk
-Michał Pilipczuk
-Felix Reidl
-Saket Saurabh
-Fernando Sánchez Villaamil
-R. B. Sandeep
-Somnath Sikdar
-Jan Arne Telle
-Pim van &#39;t Hof
-Yngve Villanger
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;orcid&lt;/li&gt;
+&lt;li&gt;arxiv&lt;/li&gt;
+&lt;li&gt;dblp&lt;/li&gt;
+&lt;li&gt;cristin&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Education&lt;/p&gt;
+&lt;h1 id=&#34;my-coauthors&#34;&gt;My coauthors&lt;/h1&gt;
 
-&lt;p&gt;I have a PhD from the Algorithms group at the Department of Informatics, University of Bergen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hans Bodlaender&lt;/li&gt;
+&lt;li&gt;Markus S. Dregi&lt;/li&gt;
+&lt;li&gt;Fedor V. Fomin&lt;/li&gt;
+&lt;li&gt;Stephan Kreutzer&lt;/li&gt;
+&lt;li&gt;Daniel Lokshtanov&lt;/li&gt;
+&lt;li&gt;Marcin Pilipczuk&lt;/li&gt;
+&lt;li&gt;Michał Pilipczuk&lt;/li&gt;
+&lt;li&gt;Felix Reidl&lt;/li&gt;
+&lt;li&gt;Saket Saurabh&lt;/li&gt;
+&lt;li&gt;Fernando Sánchez Villaamil&lt;/li&gt;
+&lt;li&gt;R. B. Sandeep&lt;/li&gt;
+&lt;li&gt;Somnath Sikdar&lt;/li&gt;
+&lt;li&gt;Jan Arne Telle&lt;/li&gt;
+&lt;li&gt;Pim van &amp;rsquo;t Hof&lt;/li&gt;
+&lt;li&gt;Yngve Villanger&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;My bachelor and master degree both come from the University of Bergen, with a short stay at the ILLC at the University of Amsterdam. In 2009, I finished my bachelor degree in Cognitive science and in 2011, I completed my master thesis Epistemic Effectivity: Neighborhood Semantics for Coalitional Ability and Group Knowledge under the supervision of Professor Thomas Ågotnes.&lt;/p&gt;
+&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+
+&lt;p&gt;I have a PhD from the Algorithms group at the Department of Informatics,
+University of Bergen.&lt;/p&gt;
+
+&lt;p&gt;My bachelor and master degree both come from the University of Bergen, with a
+short stay at the ILLC at the University of Amsterdam. In 2009, I finished my
+bachelor degree in Cognitive science and in 2011, I completed my master thesis
+Epistemic Effectivity: Neighborhood Semantics for Coalitional Ability and Group
+Knowledge under the supervision of Professor Thomas Ågotnes.&lt;/p&gt;
 </description>
     </item>
     
